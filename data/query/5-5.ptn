@@ -1,0 +1,23 @@
+####
+%CCNum
+2
+%P1
+v	0
+v	1
+v	2
+v	3
+e	1	46	0	description
+e	1	9	2	country
+e	1	94	3	team
+%P2
+v	10
+v	11
+v	12
+v	13
+e	11	46	10	description
+e	11	9	12	country
+e	11	94	13	team
+%X
+0	eq-var	0
+%Y
+2	eq-var	12

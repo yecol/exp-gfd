@@ -1,0 +1,13 @@
+####
+%CCNum
+1
+%P1
+v	0
+v	2
+v	1	Central_European_Time
+e	0	42	1	timeZone
+e	0	43	2	utcOffset
+#condition
+%X
+%Y
+2	eq-let	+1

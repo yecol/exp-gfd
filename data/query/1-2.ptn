@@ -1,0 +1,13 @@
+####
+%CCNum
+1
+%P1
+v	0
+v	1	Scotland
+v	2
+e	0	61	1	birthPlace
+e	0	9	2	country
+#condition
+%X
+%Y
+2	eq-let	United_Kingdom
